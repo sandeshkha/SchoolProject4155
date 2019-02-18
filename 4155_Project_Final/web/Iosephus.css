@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 15, 2017, 8:12:49 PM
+    Author     : LeeS
+*/
+
+h1 {
+    color: rgb(0,82,194);
+    font-family: "Calibri", Arial;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+th {
+    text-align: left;
+    font-weight: bold;
+}
+
+.price {
+    text-align: right;
+}
+
+label {
+    width: 100px;
+    display: inline-block;
+    font-weight: bold;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.boldDeletePage {
+    width: 100px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.rightLogin {
+    text-align: right;
+    width: 254px;
+}
